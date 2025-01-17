@@ -1,6 +1,6 @@
 {
     "version" : 2,
-    "name" : "Blinkit",
+    "name" : "MERN Ecommerce",
     "builds" : [
         {
             "src" : "./index.js",
